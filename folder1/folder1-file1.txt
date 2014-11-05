@@ -1,1 +1,1 @@
-folder1 file1 changed
+folder1 file1
